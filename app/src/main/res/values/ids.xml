@@ -1,0 +1,7 @@
+<resources>
+    <item name="emailInput" type="id"/>
+    <item name="passwordInput" type="id"/>
+    <item name="btnLogin" type="id"/>
+    <item name="btnSignUp" type="id"/>
+    <item name="signupEmail" type="id"/>
+</resources>

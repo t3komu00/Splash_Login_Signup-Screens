@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">demoapp</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="welcome_nexplore_the_universe_none_star_at_a_time">Welcome,\nExplore the universe,\none star at a time</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="textEmail">Email</string>
+    <string name="Textpassword">Password</string>
+    <string name="register">Register</string>
+    <string name="image">TODO</string>
+    <string name="welcome_explore_the_universe_one_star_at_a_time">Welcome, Explore the universe, one star at a time</string>
+</resources>

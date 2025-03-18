@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/image"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_explore_the_universe_one_star_at_a_time"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="20dp"
+        android:fontFamily="sans-serif-medium"/>
+</RelativeLayout>
